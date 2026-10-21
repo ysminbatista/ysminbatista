@@ -1,33 +1,4 @@
-Nenhum selecionado
 
-Pular para o conteúdo
-Como usar o Gmail com leitores de tela
-Ativar as notificações na área de trabalho para o Gmail.
-   OK  Agora não(a)
-1 de 53
-README.md - Github
-Caixa de entrada
-
-Guilherme Pompeo Verrone
-Anexos
-13:45 (há 9 minutos)
-para mim
-
-Parece que esta mensagem está em inglês
- 1 anexo
-  •  Verificados pelo Gmail
-
-Guilherme Pompeo Verrone
-Anexos
-13:49 (há 5 minutos)
-para mim
-
-
-
-Em qua., 21 de out. de 2026 às 13:45, Guilherme Pompeo Verrone <devguilhermeverrone@gmail.com> escreveu:
-
- 1 anexo
-  •  Verificados pelo Gmail
 # 👋 Olá! Eu sou a Yasmin dos Santos Batista
 
 ### Software Developer | Full Stack
